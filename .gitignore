@@ -1,0 +1,15 @@
+target/
+tests/
+
+# Chaves e segredos - NUNCA commitar
+*.pem
+*.key
+.env
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Java
+*.class
